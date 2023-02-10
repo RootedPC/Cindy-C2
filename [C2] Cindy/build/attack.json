@@ -1,0 +1,460 @@
+{
+     "Attacks" : [
+
+          {
+               "Name" : "ovh-tcp",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "ovh-cpuv2",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "ovh-load",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "100up-rail",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "nfo-storm",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "nfo-storm",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "killall-xv",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "killall-xv",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },          
+          {
+               "Name" : "nfo-tcp",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "ark-xv",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "game-small",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "fivem-ses",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "udp-game",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "udp-game",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "cldap-xv",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "tcp-amp",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "zeus-xv",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "tcp-custom",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "malformed",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "tcp-x",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "tcp-cpu",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "killall-xv",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "http-i",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "http-engine",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "http-raw",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "base-http",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "http-socket",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "c-boost",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "https-null",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "https-rand",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "https-nullv2",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "https-nullv2",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },          
+          {
+               "Name" : "https-engine",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "https-crawlv2",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          },
+          {
+               "Name" : "home-kill",
+               "AttackName" : "LKZ-HOME",
+               "Description" : "Standard Home Flood",
+               "API" : "https://golang.org/src",
+               "moderation" : {
+                    "LimitMaxTime" : false,
+                    "MaxTime" : 20
+               },
+               "DefaultPort" : "80",
+               "AdminMethod" : false,
+               "VipMethod" : true
+          }
+     ]
+}
